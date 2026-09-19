@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" fill="none">
+  <!-- Guitar Silhouette and Sound Wave Icon -->
+  <g transform="translate(10, 8)">
+    <!-- Outer Ring / Glow -->
+    <circle cx="32" cy="32" r="30" fill="#111111" />
+    <circle cx="32" cy="32" r="28" stroke="#C5A059" stroke-width="1.5" stroke-dasharray="2 2" />
+    
+    <!-- Stylized Guitar Body Silhouette -->
+    <path d="M 28 14 
+             C 24 14, 20 18, 22 24 
+             C 23 27, 21 29, 19 32 
+             C 16 36, 17 44, 23 48 
+             C 29 52, 35 52, 41 48 
+             C 47 44, 48 36, 45 32 
+             C 43 29, 41 27, 42 24 
+             C 44 18, 40 14, 36 14 Z" 
+          fill="#FAF8F5" />
+    
+    <!-- Guitar Sound Hole & Bridge -->
+    <circle cx="32" cy="38" r="4.5" fill="#111111" />
+    <circle cx="32" cy="38" r="5.5" stroke="#C5A059" stroke-width="0.8" />
+    <rect x="29" y="45" width="6" height="2" rx="1" fill="#C5A059" />
+    
+    <!-- Guitar Neck & Headstock -->
+    <rect x="30.5" y="10" width="3" height="12" fill="#FAF8F5" />
+    <path d="M 29 6 L 35 6 L 34 10 L 30 10 Z" fill="#C5A059" />
+    
+    <!-- Strings -->
+    <line x1="31.2" y1="7" x2="31.2" y2="45" stroke="#111111" stroke-width="0.4" />
+    <line x1="32" y1="7" x2="32" y2="45" stroke="#111111" stroke-width="0.4" />
+    <line x1="32.8" y1="7" x2="32.8" y2="45" stroke="#111111" stroke-width="0.4" />
+
+    <!-- Musical Note Accent -->
+    <path d="M 44 12 C 45 10, 48 10, 49 13 L 49 20 C 49 21, 47 22, 46 22 C 44.5 22, 43.5 21, 43.5 20 C 43.5 19, 44.5 18, 46 18 L 47.5 18 L 47.5 14 C 46.5 13.5, 45.5 13, 44 14 Z" fill="#C5A059" />
+  </g>
+  
+  <!-- Brand Typography -->
+  <text x="82" y="38" font-family="'Cinzel', 'Playfair Display', serif" font-size="24" font-weight="700" letter-spacing="3" fill="#111111">DENİZ</text>
+  <text x="180" y="38" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="22" font-weight="300" letter-spacing="4" fill="#C5A059">MÜZİK</text>
+  
+  <!-- Subtitle / Tagline -->
+  <text x="84" y="54" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="8.5" font-weight="600" letter-spacing="3.5" fill="#777777">PREMIUM INSTRUMENTS &amp; AUDIO</text>
+  
+  <!-- Subtle decorative line -->
+  <line x1="84" y1="60" x2="295" y2="60" stroke="#E5DFD5" stroke-width="1" />
+  <circle cx="295" cy="60" r="1.5" fill="#C5A059" />
+</svg>
